@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-‘<h1>’ 你好，我是listensay ‘</h1>’
+<你好，我是listensay />
 
 <!--
 **listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
