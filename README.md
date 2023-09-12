@@ -3,9 +3,19 @@
 我是listensay
 
 - 前端开发工程师 🧑‍💻
-
 - 一个爱折腾的人
 
+#### 技术栈
+
+#### 前端
+- JavaScript ES6
+- Vue2/3全家桶
+- TypeScript
+
+#### 后端
+Express
+
+ 
 <!--
 **listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
