@@ -2,9 +2,9 @@
 
 我是listensay
 
-一位前端开发工程师 🧑‍💻
+- 前端开发工程师 🧑‍💻
 
-一个爱折腾的人
+- 一个爱折腾的人
 
 <!--
 **listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
