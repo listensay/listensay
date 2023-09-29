@@ -7,10 +7,12 @@
 
 #### 技术栈
 
-#### 前端 
-- JavaScript ES6 （掌握）
-- Vue2/3全家桶（掌握）
-- TypeScript（掌握）
+#### 前端
+- JavaScript ES6 
+- Vue2/3全家桶
+- TypeScript
+- Nuxt3
+- 小程序
 
 #### 后端
 - Express（熟悉）
