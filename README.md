@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-我是listensay
+My nickename is listensay
 
+I'm
 - 前端开发工程师 🧑‍💻
 - 一个爱折腾的人
 
