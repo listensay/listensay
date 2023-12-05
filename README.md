@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My nickename is listensay
+You can call me listensay
 
 I'm
 - 前端开发工程师 🧑‍💻
-- 一个爱折腾的人
+- 爱折腾的人
 
 #### 技术栈
 
@@ -16,8 +16,8 @@ I'm
 - 小程序
 
 #### 后端
-- Express（熟悉）
-
+- Express（熟悉
+- Nest (了解
  
 <!--
 **listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
