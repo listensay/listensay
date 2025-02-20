@@ -1,23 +1,19 @@
 ### Hi there 👋
 
-You can call me listensay
+You can call me listensay or codermilk
 
 I'm
-- 前端开发工程师 🧑‍💻
-- 爱折腾的人
+- Developer
 
-#### 技术栈
-
-#### 前端
+Skills
 - JavaScript ES6 
 - Vue2/3全家桶
 - TypeScript
 - Nuxt3
 - 小程序
-
-#### 后端
-- Express（熟悉
-- Nest (了解
+- React
+- Nextjs
+- Express
  
 <!--
 **listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
