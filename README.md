@@ -4,16 +4,13 @@
 
 ## 🛠 技能和专长
 
-- **语言**: JavaScript (ES6+), TypeScript
-- **前端框架**: Vue.js (2/3), React, Next.js, Nuxt.js (nuxt3)
-- **Node.js 框架**: Express
-- **其他技术**: 小程序（微信小程序）
+- **语言**: JavaScript , TypeScript
+- **前端框架**: Vue.js, React, Next.js, Nuxt.js
 
 ## 🌱 我正在学习
 
-我总是热衷于学习新技术，并且随时保持最新的趋势。目前，我正在专注于：
-- 高级 TypeScript 技巧
-- 使用 Next.js 进行服务器端渲染
+我热衷于学习新技术，并且随时保持最新的趋势。目前，我正在专注于：
+- 使用 Next.js 进行全栈开发
 - 使用 Nuxt3 开发复杂应用
 
 
