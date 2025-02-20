@@ -1,31 +1,26 @@
-### Hi there 👋
+# 你好 👋，我是 listensay / codermilk
 
-You can call me listensay or codermilk
+我是一个充满热情的开发者，热衷于在最短时间内创造出优雅的解决方案。我致力于高质量代码，也乐于每天学习新知识。以下是我的一些信息和技能：
 
-I'm
-- Developer
+## 🛠 技能和专长
 
-Skills
-- JavaScript ES6 
-- Vue2/3全家桶
-- TypeScript
-- Nuxt3
-- 小程序
-- React
-- Nextjs
-- Express
- 
-<!--
-**listensay/listensay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **语言**: JavaScript (ES6+), TypeScript
+- **前端框架**: Vue.js (2/3), React, Next.js, Nuxt.js (nuxt3)
+- **Node.js 框架**: Express
+- **其他技术**: 小程序（微信小程序）
 
-Here are some ideas to get you started:
+## 🌱 我正在学习
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我总是热衷于学习新技术，并且随时保持最新的趋势。目前，我正在专注于：
+- 高级 TypeScript 技巧
+- 使用 Next.js 进行服务器端渲染
+- 使用 Nuxt3 开发复杂应用
+
+
+## 🔍 在线找到我
+
+- **个人网站**: [200205.net](#)
+
+## ⚡ 有趣的事实
+
+我热爱探索新技术，经常会沉迷于编码好几个小时。当我不在编程时，我喜欢[画画，看书，玩游戏]。
